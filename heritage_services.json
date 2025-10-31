@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Taj Mahal",
+    "location": "Agra, Uttar Pradesh",
+    "built_year": 1653,
+    "facts": "Built by Shah Jahan in memory of his wife Mumtaz Mahal.",
+    "image_url": "images/tajmahal.jpg",
+    "latitude": 27.1751,
+    "longitude": 78.0421,
+    "precautions": [
+      "Do not touch or scratch marble surfaces.",
+      "Avoid littering; use bins provided.",
+      "Photography is restricted in certain areas.",
+      "Do not bring food or plastic inside the mausoleum."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Charminar",
+    "location": "Hyderabad, Telangana",
+    "built_year": 1591,
+    "facts": "Built by Muhammad Quli Qutb Shah, symbol of Hyderabad.",
+    "image_url": "images/charminar.jpg",
+    "latitude": 17.3616,
+    "longitude": 78.4747,
+    "precautions": [
+      "Avoid leaning or climbing on structures.",
+      "Keep surroundings clean.",
+      "Do not stick posters or graffiti on walls."
+    ]
+  }
+]
